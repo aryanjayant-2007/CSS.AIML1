@@ -1,4 +1,4 @@
-p{
+/* p{
     color:blue;
 }
 
@@ -14,4 +14,27 @@ p{
 p{
     color: bisque;
     background-color: skyblue;
+} */
+p{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+    
+div{
+    color: rgb(5, 42, 30);
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    padding: 20px;
+    margin: 100px;
+}
+
+a{
+  background-color: blueviolet;
+  font: large;
+}
+
+jk{
+    background-color: brown;
 }
